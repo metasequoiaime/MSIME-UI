@@ -1,3 +1,11 @@
+> **This repository has moved and is archived.**
+>
+> Its contents are now [`ui/`](https://github.com/metasequoiaime/MSIME-Windows/tree/main/ui) in
+> [metasequoiaime/MSIME-Windows](https://github.com/metasequoiaime/MSIME-Windows), which holds the `msimeui` GUI framework: Win32 host windows with Direct2D / DirectWrite rendering.
+> Full history was preserved through the move, so `git log` and `git blame` follow files into their new paths.
+>
+> Open issues and pull requests belong in MSIME-Windows. Nothing here will be updated.
+
 # msimeui
 
 `msimeui` 是一个基于 Win32 的 C++ GUI 工程，渲染层使用 Direct2D / DirectWrite，文本输入使用 TSF。
